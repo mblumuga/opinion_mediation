@@ -1,6 +1,6 @@
 ## Install REMP
 #library(devtools)
-#require(HIMA)
+#require(HIMA)d
 nsimu<-1
 require(multilevel)
 require(ggplot2)
